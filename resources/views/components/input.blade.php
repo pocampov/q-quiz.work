@@ -1,0 +1,1 @@
+<x-jet-input type="text" class="bg-gray-300 border-solid border-2 text-center text-green-600 my-4 inline " />
